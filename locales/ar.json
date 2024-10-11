@@ -1,0 +1,27 @@
+{
+    "langugeChoseTitle": "اللغة",
+    "nextButton": "التالي",
+    "startStation": "محطة الانطلاق",
+    "choseStation": "اختر محطة",
+    "endStation": "محطة الوصول",
+    "dayChose": "اختر اليوم",
+    "passengers": "الركاب",
+    "Adult": "بالغ",
+    "kid": "طفل",
+    "confort": "الراحة",
+    "choseHour": "حدد الساعة",
+    "hour": "الساعة",
+    "search": "بحث",
+    "times": [
+      { "label": "12am - 06am", "value": "00:01" },
+      { "label": "06am - 12pm", "value": "06:01" },
+      { "label": "12pm - 19pm", "value": "12:01" },
+      { "label": "19pm - 12am", "value": "19:01" }
+    ],
+    "myConfort": [
+      { "label": "الدرجة الأولى", "value": "1" },
+      { "label": "الدرجة الثانية", "value": "2" },
+      { "label": "سرير", "value": "5" }
+    ]
+  }
+  
